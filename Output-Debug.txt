@@ -1,0 +1,5 @@
+﻿===== CLASSROOM SCHEDULING SYSTEM =====
+1. Add Class
+2. View Schedule
+3. Exit
+Enter your choice: Enter classroom: Enter day: The program 'python.exe' has exited with code 4294967295 (0xffffffff).
